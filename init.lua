@@ -797,7 +797,7 @@ minetest.register_craft({
                 }
         });
 
-dofile(minetest.get_modpath("locks").."/shared_locked_chest.lua");
-dofile(minetest.get_modpath("locks").."/shared_locked_sign_wall.lua");
-dofile(minetest.get_modpath("locks").."/shared_locked_xdoors2.lua");
-dofile(minetest.get_modpath("locks").."/shared_locked_furnace.lua");
+--dofile(minetest.get_modpath("locks").."/shared_locked_chest.lua");
+--dofile(minetest.get_modpath("locks").."/shared_locked_sign_wall.lua");
+--dofile(minetest.get_modpath("locks").."/shared_locked_xdoors2.lua");
+--dofile(minetest.get_modpath("locks").."/shared_locked_furnace.lua");
